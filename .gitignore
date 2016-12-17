@@ -6,3 +6,7 @@
 .gradle
 build
 
+.build.gradle.swp
+out/
+pictures/
+
